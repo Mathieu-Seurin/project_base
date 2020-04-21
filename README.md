@@ -44,3 +44,14 @@ if you don't want this default behavior, you can edit config.py
 
 ===============================================
 
+```
+python3 src/multiple_run.py -multiple_run_config all_base.json -n_gpus 0 -out_dir all_base -n_seed 4
+```
+
+then
+
+```
+tensorboard --logdir=. 
+```
+
+TADA
