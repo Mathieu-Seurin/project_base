@@ -1,0 +1,23 @@
+[
+  {
+    "model_config": "base_model.json",
+    "env_config": "env1.json"
+  },
+
+  {
+    "model_config": "base_model.json",
+    "model_ext" : "lr_1e6.json",
+    "env_config": "env1.json"
+  },
+
+  {
+    "model_config": "base_model.json",
+    "env_config": "env3.json"
+  },
+
+  {
+    "model_config": "base_model.json",
+    "model_ext" : "lr_1e6.json",
+    "env_config": "env3.json"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name" : "model1_lr1e5",
+
+  "algo" : "rdqn",
+  "device" : "cuda",
+
+  "dump_log_every" : 10000,
+
+  "algo_params": {
+    "learning_rate" : 1e5
+  }
+
+}
+
+
+

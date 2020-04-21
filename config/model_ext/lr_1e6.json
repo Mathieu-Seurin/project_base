@@ -1,0 +1,11 @@
+{
+  "name" : "lr1e6",
+
+  "algo_params": {
+    "learning_rate" : 1e6
+  }
+
+}
+
+
+
