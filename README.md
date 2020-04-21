@@ -51,7 +51,7 @@ python3 src/multiple_run.py -multiple_run_config all_base.json -n_gpus 0 -out_di
 then
 
 ```
-tensorboard --logdir=. 
+tensorboard --logdir=all_base
 ```
 
 TADA
